@@ -1,0 +1,76 @@
+* {
+    background-color: rgb(3, 21, 36);
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+}
+
+.header {
+    color: white;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    height: 180px;
+    background-color: rgb(3, 21, 36);
+}
+
+h2 { /* Header logo */
+    margin-left: 250px;
+    font-size: 26px;
+}
+
+h1 {  /* This is for the text "This is Sergio's AWESOME website */
+    font-size: 50px;
+    color: white;
+    font-weight: 900;
+    margin-bottom: 0px;
+}
+
+.headerlinks {
+    margin-right: 310px;
+}
+
+.link {
+    margin-right: 40px;
+}
+
+.title-text {
+    color: white;
+    margin-left: 250px;
+    width: 600px;
+}
+
+.tttext {
+    font-size: 25px;
+    margin-top: 12px;
+    font-weight: 0;
+    color: aliceblue;
+    
+}
+
+button {
+    border-radius: 8px;
+    background-color: rgb(7, 119, 194);
+    padding: 8px 16px;
+    color: white;
+    width: 100px;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.section-one-middle {
+    display: flex;
+}
+
+.image {
+    display: flex;
+    flex: 1 1 0;
+    margin-left: 60px;
+    display: flex;
+    margin-right: 220px;
+    justify-content: center;
+    
+}
